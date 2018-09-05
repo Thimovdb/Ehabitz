@@ -1,0 +1,572 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-22 07:00+0000\n"
+"PO-Revision-Date: 2018-08-22 07:20+0000\n"
+"Language-Team: Magyar\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: gaspar <gaspar@flywheel.local>\n"
+"Language: hu_HU"
+
+#: moove-actions.php:119
+msgid "plugin"
+msgstr "bővítmény"
+
+#: moove-content.php:58
+msgid ""
+"<p>This website uses cookies so that we can provide you with the best user "
+"experience possible. Cookie information is stored in your browser and "
+"performs functions such as recognising you when you return to our website "
+"and helping our team to understand which sections of the website you find "
+"most interesting and useful.</p><p>You can adjust all of your cookie "
+"settings by navigating the tabs on the left hand side.</p>"
+msgstr ""
+"<p>Ez a weboldal sütiket (cookies) használ ahhoz, hogy a weboldal "
+"megfelelően működjön, továbbá az oldalt felkereső látogatók számára a "
+"legjobb felhasználói élményt lehessen biztosítani. A sütikben elmentett "
+"információk a weboldalt felkereső látogatók böngészőjében kerül tárolásra, "
+"és olyan adatokat tartalmaznak amelyeknek segítségével felismerhetjük, ha a "
+"weboldalra visszalátogat, vagy segít abban, hogy a weboldal melyik oldalait "
+"látogatja a felhasználó a leggyakrabban, mik a legérdekesebbek számára, "
+"melyik részek a legjobban használhatóak.</p><p>A felhasználó a bal oldali "
+"rész fülein keresztül a süti beállításokat részletesen be tudja állítani.</p>"
+
+#: moove-content.php:68
+msgid ""
+"<p>Strictly Necessary Cookie should be enabled at all times so that we can "
+"save your preferences for cookie settings.</p>"
+msgstr ""
+"<p>A feltétlenül szükséges sütiket mindenkor engedélyezni kell, hogy "
+"elmenthessük a beállításokat a sütik további kezeléséhez.</p>"
+
+#: moove-content.php:81
+msgid ""
+"If you disable this cookie, we will not be able to save your preferences. "
+"This means that every time you visit this website you will need to enable or "
+"disable cookies again."
+msgstr ""
+"Amennyiben ez a süti nem kerül engedélyezésre, akkor nem tudjuk elmenteni a "
+"kiválasztott beállításokat, ami azt eredményezi, hogy minden egyes látogatás "
+"alkalmával ismételten el kell végezni a sütik engedélyezésének műveletét."
+
+#: moove-content.php:92
+msgid ""
+"<p>This website uses the following additional cookies:</p><p>(List the "
+"cookies that you are using on the website here.)</p>"
+msgstr ""
+"<p>Ez a weboldal a következő kiegészítő sütiket használja:</p><p>(Itt kell "
+"felsorolni azokat a sütiket, amelyeket még használunk a weboldalunkon.)</p>"
+
+#: moove-content.php:102
+msgid ""
+"<p>This website uses Google Analytics to collect anonymous information such "
+"as the number of visitors to the site, and the most popular pages.</p><p>"
+"Keeping this cookie enabled helps us to improve our website.</p>"
+msgstr ""
+"<p>Ez a weboldal a Google Analytics szolgáltatást használja olyan névtelen "
+"adatgyűjtéshez, mint például az oldalt felkereső látogatók száma, vagy a "
+"weboldalon belüli legnépszerűbb aloldalak.</p><p>Ezen sütik engedélyezése "
+"segít bennünket abban, hogy javíthassuk a weboldalunk tartalmát a "
+"látogatóink érdekében.</p>"
+
+#: moove-content.php:112
+msgid ""
+"<p>More information about our <a href='#' target='_blank'>Cookie Policy</a>"
+"</p>"
+msgstr ""
+"<p>Bővebb információ a <a href='#' target='_blank'>Cookie (Süti) "
+"tájékoztató</a> oldalunkon</p>"
+
+#: moove-content.php:130
+msgid ""
+"Please enable Strictly Necessary Cookies first so that we can save your "
+"preferences!"
+msgstr ""
+"A feltétlenül szükséges sütiket mindenkor engedélyezni kell, hogy "
+"elmenthessük a beállításokat a sütik további kezeléséhez."
+
+#: moove-functions.php:22
+msgid "Settings"
+msgstr "Beállítások"
+
+#: controllers/moove-controller.php:205
+#: views/moove/admin/settings/general_settings.php:340
+msgid "Change cookie settings"
+msgstr "Süti beállítások módosítása"
+
+#: controllers/moove-controller.php:232 controllers/moove-controller.php:286
+#: views/moove/admin/settings/privacy_overview.php:38
+#: views/moove/admin/settings/settings_page.php:46
+msgid "Privacy Overview"
+msgstr "Adatvédelmi áttekintés"
+
+#: controllers/moove-controller.php:239 controllers/moove-controller.php:316
+#: views/moove/admin/settings/settings_page.php:53
+#: views/moove/admin/settings/strictly_necessary_cookies.php:50
+msgid "Strictly Necessary Cookies"
+msgstr "Feltétlenül szükséges sütik"
+
+#: controllers/moove-controller.php:250 controllers/moove-controller.php:355
+#: controllers/moove-controller.php:425
+#: views/moove/admin/settings/settings_page.php:60
+#: views/moove/admin/settings/third_party_cookies.php:66
+msgid "3rd Party Cookies"
+msgstr "Funkcionális sütik"
+
+#: controllers/moove-controller.php:260
+#: views/moove/admin/settings/advanced_cookies.php:67
+#: views/moove/admin/settings/settings_page.php:67
+msgid "Additional Cookies"
+msgstr "Kiegészítő sütik"
+
+#: controllers/moove-controller.php:272
+#: views/moove/admin/settings/cookie_policy.php:45
+#: views/moove/admin/settings/settings_page.php:73
+msgid "Cookie Policy"
+msgstr "Süti szabályzat"
+
+#: controllers/moove-controller.php:336 controllers/moove-controller.php:368
+#: controllers/moove-controller.php:403
+#: views/moove/admin/settings/general_settings.php:195
+msgid "Enabled"
+msgstr "Engedélyez"
+
+#: controllers/moove-controller.php:336 controllers/moove-controller.php:368
+#: controllers/moove-controller.php:403
+#: views/moove/admin/settings/general_settings.php:196
+msgid "Disabled"
+msgstr "Elutasít"
+
+#: controllers/moove-controller.php:443
+#: views/moove/admin/settings/general_settings.php:186
+msgid "Enable All"
+msgstr "Összes engedélyezése"
+
+#: controllers/moove-controller.php:444
+msgid "Save Settings"
+msgstr "Beállítások mentése"
+
+#: controllers/moove-controller.php:485
+msgid "We are using cookies to give you the best experience on our website."
+msgstr ""
+"A weboldalon a minőségi felhasználói élmény érdekében sütiket használunk."
+
+#: controllers/moove-controller.php:486
+msgid ""
+"You can find out more about which cookies we are using or switch them off in "
+"[setting]settings[/setting]."
+msgstr ""
+"A honlap felhasználói élményének fokozása érdekében sütiket alkalmazunk. "
+"Ezeket a [setting]beállítások[/setting] oldalon lehet módosítani."
+
+#: controllers/moove-controller.php:495
+#: views/moove/admin/settings/general_settings.php:277
+msgid "Accept"
+msgstr "Elfogad"
+
+#: views/moove/admin/settings/advanced_cookies.php:77
+#: views/moove/admin/settings/cookie_policy.php:55
+#: views/moove/admin/settings/third_party_cookies.php:76
+msgid "Turn"
+msgstr "Kapcsolja"
+
+#: views/moove/admin/settings/advanced_cookies.php:80
+#: views/moove/admin/settings/cookie_policy.php:58
+#: views/moove/admin/settings/third_party_cookies.php:79
+msgid "On"
+msgstr "Be"
+
+#: views/moove/admin/settings/advanced_cookies.php:81
+#: views/moove/admin/settings/cookie_policy.php:59
+#: views/moove/admin/settings/third_party_cookies.php:80
+msgid "Off"
+msgstr "Ki"
+
+#: views/moove/admin/settings/advanced_cookies.php:87
+#: views/moove/admin/settings/third_party_cookies.php:86
+msgid "Enable by default"
+msgstr "Alapértelmezettem engedélyezve"
+
+#: views/moove/admin/settings/advanced_cookies.php:90
+#: views/moove/admin/settings/general_settings.php:207
+#: views/moove/admin/settings/general_settings.php:210
+#: views/moove/admin/settings/third_party_cookies.php:89
+msgid "Disable"
+msgstr "Letilt"
+
+#: views/moove/admin/settings/advanced_cookies.php:92
+#: views/moove/admin/settings/general_settings.php:301
+#: views/moove/admin/settings/general_settings.php:327
+#: views/moove/admin/settings/general_settings.php:330
+#: views/moove/admin/settings/third_party_cookies.php:91
+msgid "Enable"
+msgstr "Engedélyez"
+
+#: views/moove/admin/settings/advanced_cookies.php:98
+#: views/moove/admin/settings/cookie_policy.php:65
+#: views/moove/admin/settings/privacy_overview.php:49
+#: views/moove/admin/settings/strictly_necessary_cookies.php:73
+#: views/moove/admin/settings/third_party_cookies.php:97
+msgid "Tab Title"
+msgstr "Fül címsora"
+
+#: views/moove/admin/settings/advanced_cookies.php:107
+#: views/moove/admin/settings/cookie_policy.php:74
+#: views/moove/admin/settings/privacy_overview.php:58
+#: views/moove/admin/settings/strictly_necessary_cookies.php:82
+#: views/moove/admin/settings/third_party_cookies.php:106
+msgid "Tab Content"
+msgstr "Fül tartalma"
+
+#: views/moove/admin/settings/advanced_cookies.php:130
+#: views/moove/admin/settings/third_party_cookies.php:129
+msgid "Please fill out at least one of these fields:"
+msgstr "Kérjük töltse ki legalább az alábbi mezők egyikét!"
+
+#: views/moove/admin/settings/advanced_cookies.php:136
+#: views/moove/admin/settings/third_party_cookies.php:135
+msgid ""
+"The below script will be added to the page HEAD section if user enables this "
+"cookie."
+msgstr ""
+"Az alábbi kódrészlet az oldal fejlcébe (HEAD) részbe lesz hozááadva ha a "
+"felhasználó engedélyezi a sütiket."
+
+#: views/moove/admin/settings/advanced_cookies.php:144
+#: views/moove/admin/settings/advanced_cookies.php:159
+#: views/moove/admin/settings/third_party_cookies.php:143
+#: views/moove/admin/settings/third_party_cookies.php:158
+msgid ""
+"For example, you can use it for Google Tag Manager script or any other 3rd "
+"party code snippets."
+msgstr ""
+"Például, használhatja a Google Tag Manager szkriptet van bármilyen más "
+"kódrészletet."
+
+#: views/moove/admin/settings/advanced_cookies.php:151
+#: views/moove/admin/settings/third_party_cookies.php:150
+msgid ""
+"The below script will be added right after the BODY section if user enables "
+"this cookie."
+msgstr ""
+"Az alábbi kódrészlet az oldal törzs (BODY) részbe lesz hozááadva ha a "
+"felhasználó engedélyezi a sütiket."
+
+#: views/moove/admin/settings/advanced_cookies.php:165
+#: views/moove/admin/settings/third_party_cookies.php:165
+msgid ""
+"The below script will be added to the page FOOTER section if user enables "
+"this cookie."
+msgstr ""
+"Az alábbi kódrészlet az oldal láb (FOOTER) részbe lesz hozááadva ha a "
+"felhasználó engedélyezi a sütiket."
+
+#: views/moove/admin/settings/advanced_cookies.php:173
+#: views/moove/admin/settings/third_party_cookies.php:173
+msgid ""
+"For example, you can use it for Google Analytics script or any other 3rd "
+"party code snippets."
+msgstr ""
+"Például, használhatjuk a Google Analytics szkriptet, vagy más, harmadik "
+"felhasználótól származó kódrészletet."
+
+#: views/moove/admin/settings/advanced_cookies.php:181
+#: views/moove/admin/settings/cookie_policy.php:101
+#: views/moove/admin/settings/general_settings.php:399
+#: views/moove/admin/settings/privacy_overview.php:83
+#: views/moove/admin/settings/strictly_necessary_cookies.php:126
+#: views/moove/admin/settings/third_party_cookies.php:181
+msgid "Save changes"
+msgstr "Módosítás mentése"
+
+#: views/moove/admin/settings/general_settings.php:58
+msgid "Modal General Settings"
+msgstr "Felugró ablak általános beállításai"
+
+#: views/moove/admin/settings/general_settings.php:66
+msgid "Brand Primary Colour"
+msgstr "Elsődleges szín"
+
+#: views/moove/admin/settings/general_settings.php:72
+#: views/moove/admin/settings/general_settings.php:85
+#: views/moove/admin/settings/general_settings.php:362
+#: views/moove/admin/settings/general_settings.php:375
+#: views/moove/admin/settings/general_settings.php:388
+msgid "Select"
+msgstr "Kiválaszt"
+
+#: views/moove/admin/settings/general_settings.php:79
+msgid "Brand Secondary Colour"
+msgstr "Másodlagos szín"
+
+#: views/moove/admin/settings/general_settings.php:92
+msgid "Modal Logo"
+msgstr "Felugró ablakban megjelenítendő logó"
+
+#: views/moove/admin/settings/general_settings.php:93
+msgid "Recommended size:"
+msgstr "Ajánlott méret:"
+
+#: views/moove/admin/settings/general_settings.php:93
+msgid "pixels"
+msgstr "képpont"
+
+#: views/moove/admin/settings/general_settings.php:140
+msgid "Logo Position"
+msgstr "Logo pozicionálása"
+
+#: views/moove/admin/settings/general_settings.php:143
+msgid "Left"
+msgstr "Balra"
+
+#: views/moove/admin/settings/general_settings.php:144
+msgid "Center"
+msgstr "Középre"
+
+#: views/moove/admin/settings/general_settings.php:145
+msgid "Right"
+msgstr "Jobbra"
+
+#: views/moove/admin/settings/general_settings.php:152
+msgid "Choose your layout"
+msgstr "Válassza ki a kivánt elrendezést"
+
+#: views/moove/admin/settings/general_settings.php:155
+msgid "Tabs layout"
+msgstr "Fülek elrendezése"
+
+#: views/moove/admin/settings/general_settings.php:157
+msgid "One page layout"
+msgstr "Egy oldalas elrendezés"
+
+#: views/moove/admin/settings/general_settings.php:164
+msgid "Choose font-family"
+msgstr "Válasszon betűtípust (font-family)"
+
+#: views/moove/admin/settings/general_settings.php:168
+msgid ""
+"You can use \"inherit\" value to inherit the font from parent (theme) or you "
+"can setup the font family for GDPR infobar and modal."
+msgstr ""
+"Használhatja az \"inherit\" értéket hogy a betűtzpust örökölje az oldal "
+"többi részétől, vagy beállíthat egy saját típust a GDPR tartalomra."
+
+#: views/moove/admin/settings/general_settings.php:174
+msgid "Save Settings - Button Label"
+msgstr "Beállítások mentése - Gomb elnevezés"
+
+#: views/moove/admin/settings/general_settings.php:177
+msgid "Save Changes"
+msgstr "Változtatások mentése"
+
+#: views/moove/admin/settings/general_settings.php:183
+msgid "Enable All - Button Label"
+msgstr "Összes engedélyezése - Gomb elnevezés"
+
+#: views/moove/admin/settings/general_settings.php:192
+msgid "Checkbox Labels"
+msgstr "Jelölőnégyzet címke"
+
+#: views/moove/admin/settings/general_settings.php:203
+msgid "Disable \"Powered by GDPR\""
+msgstr "\"Powered by GDPR\" letiltása"
+
+#: views/moove/admin/settings/general_settings.php:217
+msgid "Powered by Label"
+msgstr "Powered by címke"
+
+#: views/moove/admin/settings/general_settings.php:227
+msgid "Strictly necessary required message."
+msgstr "Feltétlenül szükséges sütik kitöltése kötelező üzenet."
+
+#: views/moove/admin/settings/general_settings.php:231
+msgid ""
+"This warning message will be displayed if the Strictly necesarry cookies are "
+"not enabled and the user try to enable the \"Third Party\" or \"Additional "
+"cookies\""
+msgstr ""
+"Ez a figyelmeztetés akkor fog megjelenni, ha a feltétlenül szükséges sütik "
+"nincsenek engedélyezve és a felhasználó próbálja engedélyezni a többi sütik "
+"egyikét."
+
+#: views/moove/admin/settings/general_settings.php:242
+msgid "Cookie Info Bar Settings"
+msgstr "Süti információs sáv beállításai"
+
+#: views/moove/admin/settings/general_settings.php:249
+msgid "Infobar Content"
+msgstr "Információs sáv tartalma"
+
+#: views/moove/admin/settings/general_settings.php:257
+msgid ""
+"<p>We are using cookies to give you the best experience on our website.</p>"
+"<p>You can find out more about which cookies we are using or switch them off "
+"in [setting]settings[/setting].</p>"
+msgstr ""
+"<p>A weboldalon a minőségi felhasználói élmény érdekében sütiket használunk."
+"</p><p>Ismerje meg tájékoztatónkat arról, hogy milyen sütiket használunk, "
+"vagy a  [setting]beállítások[/setting] résznél ki lehet kapcsolni a "
+"használatukat.</p>"
+
+#: views/moove/admin/settings/general_settings.php:269
+msgid ""
+"You can use the following shortcut to link the settings modal:<br><span>"
+"<strong>[setting]</strong>settings<strong>[/setting]</strong></span>"
+msgstr ""
+"A következő rövidkódot használhatjuk a feljövő ablak beállításánál a "
+"hivatkozás megadásához:<br><span><strong>[setting]</strong>"
+"beállítások<strong>[/setting]</strong></span>"
+
+#: views/moove/admin/settings/general_settings.php:274
+msgid "Accept - Button Label"
+msgstr "Elfogadom - Gomb elnevezés"
+
+#: views/moove/admin/settings/general_settings.php:283
+msgid "Info bar position"
+msgstr "Információs sáv pozícionálása"
+
+#: views/moove/admin/settings/general_settings.php:287
+msgid "Top"
+msgstr "Fent"
+
+#: views/moove/admin/settings/general_settings.php:289
+msgid "Bottom"
+msgstr "Lent"
+
+#: views/moove/admin/settings/general_settings.php:297
+msgid "Colour scheme"
+msgstr "Színséma"
+
+#: views/moove/admin/settings/general_settings.php:303
+msgid "Dark"
+msgstr "Sötét téma"
+
+#: views/moove/admin/settings/general_settings.php:306
+msgid "Light"
+msgstr "Világos téma"
+
+#: views/moove/admin/settings/general_settings.php:316
+msgid "Change Settings - Floating Button"
+msgstr "Beállítások módosítása - Lebegő gomb"
+
+#: views/moove/admin/settings/general_settings.php:323
+msgid "Enable Floating Button"
+msgstr "Lebegő gomb bekapcsolása"
+
+#: views/moove/admin/settings/general_settings.php:337
+msgid "Button - Hover Label"
+msgstr "Gomb stílusa egér mutató alatt"
+
+#: views/moove/admin/settings/general_settings.php:346
+msgid "Button - Custom Position (CSS)"
+msgstr "Gomb - CSS Pozícionálás"
+
+#: views/moove/admin/settings/general_settings.php:350
+msgid ""
+"You can align the position eg.: <strong>top: 20px; right: 20px;</strong>"
+msgstr ""
+"Lehetőség a pozíció beállítására. Pl.: <strong>top: 20px; right: 20px;"
+"</strong>"
+
+#: views/moove/admin/settings/general_settings.php:356
+msgid "Button - Background Colour"
+msgstr "Gomb stílusa - Háttérszín"
+
+#: views/moove/admin/settings/general_settings.php:369
+msgid "Button - Hover Background Colour"
+msgstr "Gomb háttérszíne egér mutató alatt"
+
+#: views/moove/admin/settings/general_settings.php:382
+msgid "Button - Font Colour"
+msgstr "Gomb betűtípusa"
+
+#: views/moove/admin/settings/settings_page.php:2
+msgid "GDPR Cookie Compliance Plugin Settings"
+msgstr "GDPR Cookie Compliance bővítmény beállításai"
+
+#: views/moove/admin/settings/settings_page.php:4
+msgid "Settings saved."
+msgstr "A beállításokat elmentettük."
+
+#: views/moove/admin/settings/settings_page.php:6
+#: views/moove/admin/settings/settings_page.php:15
+msgid "Dismiss this notice."
+msgstr "Figyelmeztetés elvetése."
+
+#: views/moove/admin/settings/settings_page.php:12
+msgid "You need to insert the relevant script for the settings to be saved!"
+msgstr ""
+"Be kell illeszteni a megfelelő szkriptet a menteni kívánt beállításokhoz!"
+
+#: views/moove/admin/settings/settings_page.php:19
+msgid ""
+"General Data Protection Regulation (GDPR) is a <a href=\"http://www.eugdpr."
+"org/\" target=\"_blank\">European regulation</a> to strengthen and unify the "
+"data protection of EU citizens."
+msgstr ""
+"A General Data Protection Regulation (GDPR) az <a href=\"https://eur-lex."
+"europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32016R0679&from=HU\" "
+"target=\"_blank\">Európai Unió rendelete</a> az uniós polgárok "
+"adatvédelmének megerősítése és egységesítése érdekében."
+
+#: views/moove/admin/settings/settings_page.php:42
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: views/moove/admin/settings/strictly_necessary_cookies.php:60
+msgid "Choose functionality"
+msgstr "Válasszon funkciót"
+
+#: views/moove/admin/settings/strictly_necessary_cookies.php:64
+msgid "Optional (user selects their preferences)"
+msgstr "Fakultatív (a felhasználó választja ki a belállításokat)"
+
+#: views/moove/admin/settings/strictly_necessary_cookies.php:66
+msgid "Always enabled (user cannot disable it but can see the content)"
+msgstr ""
+"Mindig engedélyezve (a felhasználó nem tudja módosítani, de ki van mutatva a "
+"tartalom)"
+
+#: views/moove/admin/settings/strictly_necessary_cookies.php:68
+msgid "Always enabled and content hidden from user"
+msgstr "Mindig engedélyezve és a tartalom nem látható a falhasználó számára"
+
+#: views/moove/admin/settings/strictly_necessary_cookies.php:105
+msgid "Tab Warning Message"
+msgstr "Figyelmeztető üzenet fül"
+
+#: views/moove/admin/settings/strictly_necessary_cookies.php:118
+msgid "Will be displayed below the Checkbox in the front-end!"
+msgstr "A honlap látogatói felületén fog megjelenni a jelölőnégyzet alatt."
+
+#. Name of the plugin
+msgid "GDPR Cookie Compliance"
+msgstr "GDPR Cookie Compliance"
+
+#. Description of the plugin
+msgid ""
+"GDPR is an EU wide legislation that specifies how user data should be "
+"handled. This plugin has settings that can assist you with GDPR cookie "
+"compliance requirements."
+msgstr ""
+"A General Data Protection Regulation (GDPR) az uniós polgárok adatvédelmének "
+"megerősítése és egységesítése érdekében meghatározza az adatkezelés "
+"szabályait. Ez a bővítmény olyan beállításokat tartalmaz, amelyek segítenek "
+"a GDPR süti-kezelési szabályainak való megfeleltetésben."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/gdpr-cookie-compliance/"
+msgstr "https://wordpress.org/plugins/gdpr-cookie-compliance/"
+
+#. Author of the plugin
+msgid "Moove Agency"
+msgstr "Moove Agency"
+
+#. Author URI of the plugin
+msgid "https://www.mooveagency.com"
+msgstr "https://www.mooveagency.com"
